@@ -34,7 +34,7 @@ jobs:
       run: cd android && ./gradlew assembleRelease
 
     - name: Archive code coverage results
-        uses: actions/upload-artifact@v4
-        with:
-          name: apk
-          path: android/app/build/outputs/apk/release/app-release.apk
+      uses: actions/upload-artifact@v4
+      with:
+        name: apk
+        path: android/app/build/outputs/apk/release/app-release.apk
