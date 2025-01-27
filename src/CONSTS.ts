@@ -1,8 +1,8 @@
 export const COMETCHAT_CONSTANTS = {
-  APP_ID: "****************",
-  REGION: "**",
-  AUTH_KEY: "****************************************",
-  FCM_PROVIDER_ID: "****************",
+  APP_ID: "2693178751988b98",
+  REGION: "IN",
+  AUTH_KEY: "5e64ba711d881f692e05217e17714c596a090f5e",
+  FCM_PROVIDER_ID: "205884759171",
   APNS_PROVIDER_ID: "****************",
 };
 
