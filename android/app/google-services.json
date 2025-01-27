@@ -1,0 +1,29 @@
+{
+    "project_info": {
+      "project_number": "205884759171",
+      "project_id": "cometchat-push-notification-ap",
+      "storage_bucket": "cometchat-push-notification-ap.firebasestorage.app"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:205884759171:android:c20a0146e4236b9b63cfb6",
+          "android_client_info": {
+            "package_name": "com.react_native_sample_app"
+          }
+        },
+        "oauth_client": [],
+        "api_key": [
+          {
+            "current_key": "AIzaSyAU98U4C5gl_msQUNKrP9RX3NodFY5yXnU"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": []
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
